@@ -1,0 +1,5 @@
+train: C:\Users\Sakthipriyen\Documents\Programming\PYTHON\Licence Number detection\Licence Plate datasets\train\images
+val: C:\Users\Sakthipriyen\Documents\Programming\PYTHON\Licence Number detection\Licence Plate datasets\valid\images
+
+nc: 1
+names: ['Number_Plate_Detected']
